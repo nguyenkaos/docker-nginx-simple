@@ -22,6 +22,7 @@ Use a command like this one:
 Or use docker-compose:
 
   `docker-compose up -d`
+  docker will deploy at ` <hostname>:8686`
 
 ## Debugging
 
