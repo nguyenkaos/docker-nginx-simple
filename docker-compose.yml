@@ -9,3 +9,5 @@ services:
       - ./wwwroot/:/var/www/
     build:
       context: .
+    ports:
+      - 8686:80
